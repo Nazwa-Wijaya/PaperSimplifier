@@ -1,0 +1,6 @@
+{
+  "name": "PaperSimplifier",
+  "description": "A modern, academic paper simplifier with Gen Z friendly vibes, featuring split-screen views, slang toggles, and technical term highlights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
